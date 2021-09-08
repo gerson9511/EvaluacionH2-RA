@@ -5,6 +5,8 @@ Como mi aplicacion pesa 40 MB lo comprimi em un RAR pero GitHub solo permite sub
 
 https://drive.google.com/drive/folders/1pt6Nx4qbnnW1CH4x9yrBgJ_et9NBHMYS?usp=sharing
 
+Adjunto el link del video de la aplicación funcionando https://youtu.be/oavwNrxNZc4
+
 Utilice cuatro objetos 3d con botones que cada uno tiene un baile distinto, adjunto la imagen que use como marcador
 
 ![bailarines](https://user-images.githubusercontent.com/45986551/132439639-1e89f8ca-77a4-442a-8bba-ef07676cb393.jpeg)
