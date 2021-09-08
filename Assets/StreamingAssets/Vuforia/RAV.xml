@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bailarines" size="10.000000 7.272727" />
+    <ImageTarget name="baile" size="10.000000 7.687500" />
+    <ImageTarget name="dilofosaurus" size="10.000000 5.626374" />
+    <ImageTarget name="Tiranosaurio" size="10.000000 6.481250" />
+    <ImageTarget name="triceratop" size="10.000000 5.806818" />
+    <ImageTarget name="pista" size="10.000000 10.000000" />
+    <ImageTarget name="dinosaurio" size="10.000000 10.033222" />
+  </Tracking>
+</QCARConfig>
